@@ -1,0 +1,10 @@
+Google Books has a mission to digitize the world's book content and make it more discoverable on the Web. The Books API is a way to search and access that content, as well as to create and view personalization around that content.
+we have made a google books api by web devlopment.
+first we have made a fully functioned web google books using open api.
+we have used the HTML CSS & JAVA sc for developing the project .
+Once you go for search you can have multipule books as result once you click on that you will redirect to google books.
+To make frendly user we have make this invotion project as we can have multiple books as refers by this single application. 
+Instruction to do by your end download VS code and download extention (live server)
+please make edit of your conatct info in contact.html page
+for each file you have to use the same extention 
+Note is only for your refers
